@@ -1,0 +1,13 @@
+Modelo	SexTrab	NumPess
+1	F/nt	114
+2	F/nt	47
+3	F/nt	83
+4	F/nt	32
+1	F/t	148
+2	F/t	92
+3	F/t	128
+4	F/t	49
+1	M/t	59
+2	M/t	165
+3	M/t	61
+4	M/t	47
